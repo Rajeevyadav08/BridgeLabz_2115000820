@@ -5,8 +5,8 @@ public class DistanceConverter {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the distance in feet: ");
         double distanceInFeet = input.nextDouble();
-        double distanceInYards = distanceInFeet / 3;  // 1 yard = 3 feet
-        double distanceInMiles = distanceInYards / 1760;  // 1 mile = 1760 yards
+        double distanceInYards = distanceInFeet / 3;  
+        double distanceInMiles = distanceInYards / 1760;  
         System.out.printf("The distance in yards is %.2f and in miles is %.6f%n", distanceInYards, distanceInMiles);
         input.close();
     }
