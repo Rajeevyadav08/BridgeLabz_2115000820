@@ -32,4 +32,34 @@ public class NumberChecker {
             return 0; // Zero
         }
     }
+
+    public static int[] findSmallestAndSecondSmallest(int[] digits) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'findSmallestAndSecondSmallest'");
+    }
+
+    public static int[] findLargestAndSecondLargest(int[] digits) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'findLargestAndSecondLargest'");
+    }
+
+    public static int countDigits(int number) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'countDigits'");
+    }
+
+    public static int[] storeDigits(int number) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'storeDigits'");
+    }
+
+    public static boolean isDuckNumber(int number) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'isDuckNumber'");
+    }
+
+    public static boolean isArmstrongNumber(int number) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'isArmstrongNumber'");
+    }
 }
