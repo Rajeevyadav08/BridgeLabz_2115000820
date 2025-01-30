@@ -5,7 +5,6 @@ public class PalindromeCheck {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
-        scanner.close();
         boolean isPalindrome = true;
         int length = input.length();
         for (int i = 0; i < length / 2; i++) {
